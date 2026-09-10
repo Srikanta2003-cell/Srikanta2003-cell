@@ -106,69 +106,7 @@ engaging and user-friendly online shopping experience.
 
 🔗 **Repository:** [View Project](YOUR_ZESTIFY_REPOSITORY_URL)
 
----
 
-### 🎓 Student Record Management System
-
-A Java-based CRUD application designed to manage student information
-using Object-Oriented Programming, JDBC and MySQL.
-
-**Tech Stack:**
-
-`Java` `OOP` `JDBC` `MySQL`
-
-**Key Features:**
-
-- ➕ Add student records
-- ✏️ Update student information
-- 🗑️ Delete student records
-- 🔍 Search student details
-- 📋 Display student information
-- 🗄️ MySQL database integration
-
-🔗 **Repository:** [View Project](YOUR_STUDENT_PROJECT_URL)
-
----
-
-### 💡 LoRa-Based Street Light Monitoring System
-
-An IoT-based project designed to monitor street-light conditions using
-LoRa-based wireless communication.
-
-**Tech Stack:**
-
-`LoRa` `IoT` `Java` `Sensors`
-
-**Highlights:**
-
-- 💡 Street-light monitoring
-- 📡 LoRa-based communication
-- 📊 Monitoring of street-light status
-- 🌆 Smart-city application
-
-🔗 **Repository:** [View Project](YOUR_LORA_PROJECT_URL)
-
----
-
-### 🤖 Face Detection Using Python
-
-An AI/ML project developed using Python and computer-vision techniques
-for detecting faces.
-
-**Tech Stack:**
-
-`Python` `AI/ML` `Computer Vision`
-
-**Highlights:**
-
-- 🤖 Face detection
-- 👥 Multiple-face detection
-- 🧠 Computer vision concepts
-- 🐍 Python-based implementation
-
-🔗 **Repository:** [View Project](YOUR_FACE_DETECTION_REPOSITORY_URL)
-
----
 
 <!-- ======================= CERTIFICATIONS ======================= -->
 
