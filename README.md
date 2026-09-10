@@ -87,24 +87,13 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 Zestify — E-Commerce Website
+### 🛍️ Zestify – Modern E-Commerce Web Application
 
-A modern and responsive e-commerce website designed to provide a simple,
-engaging and user-friendly online shopping experience.
+A modern and responsive e-commerce web application designed with a clean Gen-Z-friendly interface. Built using HTML, CSS, JavaScript and Bootstrap.
 
-**Tech Stack:**
+**Tech Stack:** HTML | CSS | JavaScript | Bootstrap
 
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
-**Key Features:**
-
-- 🛍️ Product categories and product cards
-- 🛒 Shopping cart functionality
-- 📱 Responsive design
-- 🎨 Clean and modern user interface
-- 📩 Contact and subscription sections
-
-🔗 **Repository:** [View Project](YOUR_ZESTIFY_REPOSITORY_URL)
+[💻 Source Code](https://github.com/Srikanta2003-cell/Zestify-E-commerce)
 
 
 
