@@ -178,7 +178,7 @@ A modern and responsive e-commerce web application designed with a clean Gen-Z-f
 </a>
 
 <a href="https://github.com/Srikanta2003-cell">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 </a>
 
 </p>
