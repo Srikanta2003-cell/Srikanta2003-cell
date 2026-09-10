@@ -1,16 +1,271 @@
-## Hi there 👋
+<!-- ======================= HEADER ======================= -->
 
-<!--
-**Srikanta2003-cell/Srikanta2003-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Srikanta Kumar</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  💻 Aspiring Java Full Stack Developer | 🚀 Software Engineer
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Passionate about building responsive web applications and solving
+  real-world problems using Java, Spring Boot, React.js and MySQL.
+</p>
+
+---
+
+<!-- ======================= ABOUT ME ======================= -->
+
+## 👨‍💻 About Me
+
+- 🎓 Electronics & Communication Engineering graduate
+- 💻 Aspiring **Java Full Stack Developer**
+- ☕ Skilled in **Java, OOP, HTML, CSS, ANGULAR, .NET**
+- 🌱 Developing skills in **Spring Boot, REST APIs and React.js**
+- 🗄️ Familiar with **SQL, MySQL, JDBC and DBMS**
+- 🧪 Knowledge of **Selenium WebDriver and Automation Testing**
+- 🌐 Interested in building **responsive and user-friendly web applications**
+- 🚀 Passionate about learning new technologies and developing real-world projects
+- 🎯 Open to **Java Developer, Java Full Stack Developer and Software Engineer opportunities**
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+## 🚀 Tech Stack & Tools
+
+### ☕ Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,python,js" />
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🧪 Testing & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,git,github,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JDBC-Database%20Connectivity-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-Backend-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JIRA-Project%20Management-blue?style=for-the-badge&logo=jira" />
+</p>
+
+---
+
+<!-- ======================= SKILLS ======================= -->
+
+## 💡 Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | Java, C, Python, JavaScript |
+| **Frontend** | HTML5, CSS3, JavaScript, React.js, Bootstrap |
+| **Backend** | Core Java, Spring Boot, REST APIs, JDBC |
+| **Database** | MySQL, SQL, DBMS |
+| **Testing** | Selenium WebDriver, TestNG |
+| **Tools** | Git, GitHub, VS Code, JIRA |
+| **Core Concepts** | OOP, Collections, Exception Handling, CRUD |
+
+---
+
+<!-- ======================= PROJECTS ======================= -->
+
+## 🚀 Featured Projects
+
+### 🛒 Zestify — E-Commerce Website
+
+A modern and responsive e-commerce website designed to provide a simple,
+engaging and user-friendly online shopping experience.
+
+**Tech Stack:**
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+**Key Features:**
+
+- 🛍️ Product categories and product cards
+- 🛒 Shopping cart functionality
+- 📱 Responsive design
+- 🎨 Clean and modern user interface
+- 📩 Contact and subscription sections
+
+🔗 **Repository:** [View Project](YOUR_ZESTIFY_REPOSITORY_URL)
+
+---
+
+### 🎓 Student Record Management System
+
+A Java-based CRUD application designed to manage student information
+using Object-Oriented Programming, JDBC and MySQL.
+
+**Tech Stack:**
+
+`Java` `OOP` `JDBC` `MySQL`
+
+**Key Features:**
+
+- ➕ Add student records
+- ✏️ Update student information
+- 🗑️ Delete student records
+- 🔍 Search student details
+- 📋 Display student information
+- 🗄️ MySQL database integration
+
+🔗 **Repository:** [View Project](YOUR_STUDENT_PROJECT_URL)
+
+---
+
+### 💡 LoRa-Based Street Light Monitoring System
+
+An IoT-based project designed to monitor street-light conditions using
+LoRa-based wireless communication.
+
+**Tech Stack:**
+
+`LoRa` `IoT` `Java` `Sensors`
+
+**Highlights:**
+
+- 💡 Street-light monitoring
+- 📡 LoRa-based communication
+- 📊 Monitoring of street-light status
+- 🌆 Smart-city application
+
+🔗 **Repository:** [View Project](YOUR_LORA_PROJECT_URL)
+
+---
+
+### 🤖 Face Detection Using Python
+
+An AI/ML project developed using Python and computer-vision techniques
+for detecting faces.
+
+**Tech Stack:**
+
+`Python` `AI/ML` `Computer Vision`
+
+**Highlights:**
+
+- 🤖 Face detection
+- 👥 Multiple-face detection
+- 🧠 Computer vision concepts
+- 🐍 Python-based implementation
+
+🔗 **Repository:** [View Project](YOUR_FACE_DETECTION_REPOSITORY_URL)
+
+---
+
+<!-- ======================= CERTIFICATIONS ======================= -->
+
+## 📜 Certifications
+
+- ☕ **Java Full Stack Development** — QSpiders
+- 🤖 **Artificial Intelligence & Machine Learning** — Central Tool Room & Training Centre
+- ☕ **Object-Oriented Programming** — Great Learning
+- 🧪 **Full Stack Selenium Testing** — Naresh IT
+- 💻 **Java Development** — Lakshya Institute
+
+---
+
+<!-- ======================= ACHIEVEMENTS ======================= -->
+
+## 🏆 Achievements & Activities
+
+- 🎓 Completed Java Full Stack development training
+- 💻 Developed projects using Java, Python, HTML, CSS and JavaScript
+- 🤖 Completed AI/ML training and project work
+- 🧪 Learned Selenium-based automation testing
+- 🎪 Served as an Event Coordinator for a university techno-management fest
+- 🚀 Continuously building projects to strengthen practical development skills
+
+---
+
+<!-- ======================= GITHUB STATS ======================= -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Srikanta2003-cell&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikanta2003-cell&layout=compact&hide_border=true&theme=tokyonight"
+    height="180"
+  />
+</p>
+
+---
+
+<!-- ======================= GITHUB STREAK ======================= -->
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Srikanta2003-cell&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+<!-- ======================= CONTRIBUTION GRAPH ======================= -->
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Srikanta2003-cell&theme=tokyo-night&hide_border=true"
+  />
+</p>
+
+---
+
+<!-- ======================= LET'S CONNECT ======================= -->
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/srikanta-kumar-sahu-17382b240">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="sahusrikant588@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Srikanta2003-cell">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+  🚀 Open to Java Developer & Software Engineer Opportunities
+</h3>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
