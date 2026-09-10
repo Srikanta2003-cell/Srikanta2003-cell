@@ -2,13 +2,9 @@
 
 <h1 align="center">👋 Hi there, I'm Srikanta Kumar</h1>
 
-<h3 align="center">
-  💻 Aspiring Java Full Stack Developer | 🚀 Software Engineer
-</h3>
 
 <p align="center">
-  Passionate about building responsive web applications and solving
-  real-world problems using Java, Spring Boot, React.js and MySQL.
+  I'm a passionate Frontend Developer skilled in building scalable web applications using React, Next, HTML, CSS, NodeJs. I enjoy translating designs into pixel-perfect UIs and bringing products to life with interactive, responsive, and clean code.
 </p>
 
 ---
