@@ -120,24 +120,6 @@ A modern and responsive e-commerce web application designed with a clean Gen-Z-f
 - 🎪 Served as an Event Coordinator for a university techno-management fest
 - 🚀 Continuously building projects to strengthen practical development skills
 
----
-
-<!-- ======================= GITHUB STATS ======================= -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Srikanta2003-cell&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikanta2003-cell&layout=compact&hide_border=true&theme=tokyonight"
-    height="180"
-  />
-</p>
-
----
 
 <!-- ======================= GITHUB STREAK ======================= -->
 
@@ -148,20 +130,6 @@ A modern and responsive e-commerce web application designed with a clean Gen-Z-f
     src="https://streak-stats.demolab.com?user=Srikanta2003-cell&theme=tokyonight&hide_border=true"
   />
 </p>
-
----
-
-<!-- ======================= CONTRIBUTION GRAPH ======================= -->
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Srikanta2003-cell&theme=tokyo-night&hide_border=true"
-  />
-</p>
-
----
 
 <!-- ======================= LET'S CONNECT ======================= -->
 
@@ -178,7 +146,7 @@ A modern and responsive e-commerce web application designed with a clean Gen-Z-f
 </a>
 
 <a href="https://github.com/Srikanta2003-cell">
-
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
