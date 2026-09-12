@@ -67,22 +67,6 @@
 
 ---
 
-<!-- ======================= SKILLS ======================= -->
-
-## 💡 Technical Skills
-
-| Category | Skills |
-|----------|--------|
-| **Languages** | Java, C, Python, JavaScript |
-| **Frontend** | HTML5, CSS3, JavaScript, React.js, Bootstrap |
-| **Backend** | Core Java, Spring Boot, REST APIs, JDBC |
-| **Database** | MySQL, SQL, DBMS |
-| **Testing** | Selenium WebDriver, TestNG |
-| **Tools** | Git, GitHub, VS Code, JIRA |
-| **Core Concepts** | OOP, Collections, Exception Handling, CRUD |
-
----
-
 <!-- ======================= PROJECTS ======================= -->
 
 ## 🚀 Featured Projects
@@ -102,7 +86,7 @@ A modern and responsive e-commerce web application designed with a clean Gen-Z-f
 
 ## 📜 Certifications
 
-- ☕ **Java Full Stack Development** — QSpiders
+- ☕ **Java Full Stack Development** — JSpiders-bengaluru
 - 🤖 **Artificial Intelligence & Machine Learning** — Central Tool Room & Training Centre
 - ☕ **Object-Oriented Programming** — Great Learning
 
