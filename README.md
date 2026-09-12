@@ -93,7 +93,7 @@ A modern and responsive e-commerce web application designed with a clean Gen-Z-f
 
 **Tech Stack:** HTML | CSS | JavaScript | Bootstrap
 
-livedemo-http://127.0.0.1:5500/Zestify.html
+
 [💻 Source Code](https://github.com/Srikanta2003-cell/Zestify-E-commerce)
 
 
@@ -105,10 +105,7 @@ livedemo-http://127.0.0.1:5500/Zestify.html
 - ☕ **Java Full Stack Development** — QSpiders
 - 🤖 **Artificial Intelligence & Machine Learning** — Central Tool Room & Training Centre
 - ☕ **Object-Oriented Programming** — Great Learning
-- 🧪 **Full Stack Selenium Testing** — Naresh IT
-- 💻 **Java Development** — Lakshya Institute
 
----
 
 <!-- ======================= ACHIEVEMENTS ======================= -->
 
@@ -118,7 +115,6 @@ livedemo-http://127.0.0.1:5500/Zestify.html
 - 💻 Developed projects using Java, Python, HTML, CSS and JavaScript
 - 🤖 Completed AI/ML training and project work
 - 🧪 Learned Selenium-based automation testing
-- 🎪 Served as an Event Coordinator for a university techno-management fest
 - 🚀 Continuously building projects to strengthen practical development skills
 
 
