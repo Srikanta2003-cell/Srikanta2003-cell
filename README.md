@@ -78,18 +78,8 @@ A modern and responsive e-commerce web application designed with a clean Gen-Z-f
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/srikanta-kumar-sahu-17382b240">
- 
-</a>
-
-<a href="sahusrikant588@gmail.com">
-  
-</a>
-
-<a href="https://github.com/Srikanta2003-cell">
-  
-
-</p>
+💼 LinkedIn:https://www.linkedin.com/in/srikanta-kumar-sahu-17382b240
+📧 Email: sahusrikant588@gamil.com
 
 ---
 
