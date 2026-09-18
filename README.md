@@ -25,39 +25,9 @@
 <!-- ======================= TECH STACK ======================= -->
 
 ## 🚀 Tech Stack & Tools
-
-### ☕ Programming Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,react,spring,mysql,github" />
 </p>
-
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🧪 Testing & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=github" />
-</p>
-
-
----
 
 <!-- ======================= PROJECTS ======================= -->
 
