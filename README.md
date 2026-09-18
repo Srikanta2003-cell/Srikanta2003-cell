@@ -79,16 +79,15 @@ A modern and responsive e-commerce web application designed with a clean Gen-Z-f
 <p align="center">
 
 <a href="https://www.linkedin.com/in/srikanta-kumar-sahu-17382b240">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+ 
 </a>
 
 <a href="sahusrikant588@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  
 </a>
 
 <a href="https://github.com/Srikanta2003-cell">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  
 
 </p>
 
