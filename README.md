@@ -79,8 +79,6 @@ A modern and responsive e-commerce web application designed with a clean Gen-Z-f
 💼 LinkedIn:https://www.linkedin.com/in/srikanta-kumar-sahu-17382b240
 📧 Email: sahusrikant588@gamil.com
 
----
-
 <h3 align="center">
   🚀 Open to Java Developer & Software Engineer Opportunities
 </h3>
