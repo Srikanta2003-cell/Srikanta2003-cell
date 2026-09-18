@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  I'm a passionate Frontend Developer skilled in building scalable web applications using React, Next, HTML, CSS, NodeJs. I enjoy translating designs into pixel-perfect UIs and bringing products to life with interactive, responsive, and clean code.
+  I'm a passionate Frontend Developer skilled in building scalable web applications using **React, Next, HTML5, TailwindCSS, springboot.** I enjoy translating designs into pixel-perfect UIs and bringing products to life with interactive, responsive, and clean code.
 </p>
 
 ---
@@ -15,14 +15,12 @@
 
 - 🎓 Electronics & Communication Engineering graduate
 - 💻 Aspiring **Java Full Stack Developer**
-- ☕ Skilled in **Java, OOP, HTML, CSS, ANGULAR, .NET**
+- ☕ Skilled in **Java, OOP, HTML5, TailwindCSS, ANGULAR, .NET**
 - 🌱 Developing skills in **Spring Boot, REST APIs and React.js**
 - 🗄️ Familiar with **SQL, MySQL, JDBC and DBMS**
 - 🧪 Knowledge of **Selenium WebDriver and Automation Testing**
 - 🌐 Interested in building **responsive and user-friendly web applications**
-- 🚀 Passionate about learning new technologies and developing real-world projects
-- 🎯 Open to **Java Developer, Java Full Stack Developer and Software Engineer opportunities**
-
+- 🚀 Passionate about learning new technologies and developing real-world project
 ---
 
 <!-- ======================= TECH STACK ======================= -->
@@ -95,10 +93,8 @@ A modern and responsive e-commerce web application designed with a clean Gen-Z-f
 
 ## 🏆 Achievements & Activities
 
-- 🎓 Completed Java Full Stack development training
-- 💻 Developed projects using Java, Python, HTML, CSS and JavaScript
+- ✅ Completed a Full-Stack Project using React, Springboot, javascript, and MySQL
 - 🤖 Completed AI/ML training and project work
-- 🧪 Learned Selenium-based automation testing
 - 🚀 Continuously building projects to strengthen practical development skills
 
 
