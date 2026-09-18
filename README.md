@@ -54,14 +54,9 @@
 ### 🧪 Testing & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=selenium,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/JDBC-Database%20Connectivity-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20API-Backend-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JIRA-Project%20Management-blue?style=for-the-badge&logo=jira" />
-</p>
 
 ---
 
