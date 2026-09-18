@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  I'm a passionate Frontend Developer skilled in building scalable web applications using **React, Next, HTML5, TailwindCSS, springboot.** I enjoy translating designs into pixel-perfect UIs and bringing products to life with interactive, responsive, and clean code.
+  I'm a passionate Frontend Developer skilled in building scalable web applications using **React, Next, HTML5, TailwindCSS, springboot**. I enjoy translating designs into pixel-perfect UIs and bringing products to life with interactive, responsive, and clean code.
 </p>
 
 ---
