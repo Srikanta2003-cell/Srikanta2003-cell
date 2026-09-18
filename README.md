@@ -39,8 +39,8 @@ A modern and responsive e-commerce web application designed with a clean Gen-Z-f
 
 **Tech Stack:** HTML | CSS | JavaScript | Bootstrap
 
-
-[💻 Source Code](https://github.com/Srikanta2003-cell/Zestify-E-commerce)
+[Live demo](zestify-ecommerce.vercel.app)
+[💻 Source Code](https://github.com/Srikanta2003-cell/zestify-ecommerce)
 
 
 
