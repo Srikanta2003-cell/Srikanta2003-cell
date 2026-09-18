@@ -18,7 +18,6 @@
 - ☕ Skilled in **Java, OOP, HTML5, TailwindCSS, ANGULAR, .NET**
 - 🌱 Developing skills in **Spring Boot, REST APIs and React.js**
 - 🗄️ Familiar with **SQL, MySQL, JDBC and DBMS**
-- 🧪 Knowledge of **Selenium WebDriver and Automation Testing**
 - 🌐 Interested in building **responsive and user-friendly web applications**
 - 🚀 Passionate about learning new technologies and developing real-world project
 ---
@@ -30,7 +29,7 @@
 ### ☕ Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,python,js" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,react,spring,mysql,github" />
 </p>
 
 ### 🌐 Frontend Development
