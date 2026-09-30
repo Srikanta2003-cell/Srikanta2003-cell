@@ -62,7 +62,7 @@ A modern and responsive e-commerce web application designed with a clean Gen-Z-f
 ## 🤝 Let's Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/srikanta-kumar-sahu-17382b240)  
-🌐 [Portfolio](https://my-portfolio-mu-teal-68.vercel.app/)  
+🌐 [Portfolio](srikanta-kumar-portfolio.vercel.app)  
 📧 [Email](mailto:sahusrikant588@gmail.com)
  
 
