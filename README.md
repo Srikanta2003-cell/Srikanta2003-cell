@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00C99A&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Srikanta+Kumar+Sahu;Java+Full+Stack+Developer;Software+Developer;Always+Learning+and+Building"
+    src=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=orbitron&size=30&pause=1000&color=1800F7&background=80FF2A00&width=435&lines=SRIKANTA+KUMAR+SAHU;JAVA+FULLSTACK+DEVELOPER+;SOFTWARE+DEVELOPER+;FRONTEND+DEVELOPER+;BACKEND+DEVELOPER+" alt="Typing SVG" />
     alt="Srikanta Kumar Sahu - Java Full Stack Developer"
   />
 </p>
