@@ -1,7 +1,7 @@
 
-<p align="center">
+align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=orbitron&size=30&pause=1000&color=1800F7&background=80FF2A00&width=435&lines=SRIKANTA+KUMAR+SAHU;JAVA+FULLSTACK+DEVELOPER+;SOFTWARE+DEVELOPER+;FRONTEND+DEVELOPER+;BACKEND+DEVELOPER+" alt="Typing SVG" /></a>
-</p>
+
 
 <!-- ======================= HEADER ======================= -->
 
