@@ -10,6 +10,17 @@
   I'm a passionate Frontend Developer skilled in building scalable web applications using React, Next, HTML5, TailwindCSS, springboot. I enjoy translating designs into pixel-perfect UIs and bringing products to life with interactive, responsive, and clean code.
 </p>
 
+## 👨‍💻 About Me
+Hi, I'm **Srikanta Kumar Sahu**, an Passionate Java Full Stack Developer
+about building responsive web applications and solving
+real-world problems through technology.
+
+- 💻 Interested in Java and full-stack development.
+- 🌱 Improving my skills in Spring Boot, React.js, and MySQL.
+- 🚀 Building projects to gain practical software development experience.
+- 🛠️ Experienced with frontend projects using HTML, CSS, JavaScript, and Bootstrap.
+- 🤝 Open to entry-level software development opportunities and collaboration.
+  
 <!-- ======================= TECH STACK ======================= -->
 
 ## 🚀 Tech Stack & Tools
