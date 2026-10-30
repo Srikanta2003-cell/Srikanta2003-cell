@@ -23,7 +23,7 @@ real-world problems through technology.
   
 <!-- ======================= TECH STACK ======================= -->
 
-## 🚀 Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,react,spring,mysql,github" />
 </p>
