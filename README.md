@@ -41,6 +41,14 @@ A modern and responsive e-commerce web application designed with a clean Gen-Z-f
 [Live demo](https://zestify-ecommerce.vercel.app)
 [💻 Source Code](https://github.com/Srikanta2003-cell/zestify-ecommerce)
 
+### 🎮 Tic-Tac-Toe Game
+An interactive browser-based game featuring a clean interface,
+gameplay logic, and win/draw detection.
+
+**Technologies:** HTML5, CSS3, JavaScript
+[Live demo](https://tic-tac-toe-game-application-inky.vercel.app)
+[💻 Source Code](https://github.com/Srikanta2003-cell/Tic-Tac-Toe-Game-Application)
+
 
 
 <!-- ======================= CERTIFICATIONS ======================= -->
