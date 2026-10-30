@@ -50,6 +50,15 @@ gameplay logic, and win/draw detection.
 [Live demo](https://tic-tac-toe-game-application-inky.vercel.app)
 [💻 Source Code](https://github.com/Srikanta2003-cell/Tic-Tac-Toe-Game-Application)
 
+### 🌐 Personal Portfolio Website
+A personal website showcasing my technical skills, projects,
+certifications, and professional profile.
+
+**Technologies:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS
+
+[Live demo](https://srikanta-kumar-portfolio.vercel.app)
+[💻 Source Code](https://github.com/Srikanta2003-cell/My-portfolio)
+
 
 
 <!-- ======================= CERTIFICATIONS ======================= -->
