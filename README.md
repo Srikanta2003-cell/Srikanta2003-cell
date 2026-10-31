@@ -12,11 +12,13 @@ Hi,I'm a passionate Frontend Developer skilled in building scalable web applicat
  
  I actively work on projects related to Full-Stack Web Development, Frontend Development, Backend Development, Database Management, and Software Engineering, with a focus on writing clean, efficient, and maintainable code.
 
-- 💻 Interested in Java and full-stack development.
-- 🌱 Improving my skills in Spring Boot, React.js, and MySQL.
-- 🚀 Building projects to gain practical software development experience.
-- 🛠️ Experienced with frontend projects using HTML, CSS, JavaScript, and Bootstrap.
-- 🤝 Open to entry-level software development opportunities and collaboration.
+
+- 💻 Passionate about Java & Full-Stack Development.
+- 🌱 Learning Spring Boot, React.js & MySQL.
+- 🚀 Building practical projects and improving my skills.
+- 🛠️ Skilled in HTML, CSS, JavaScript & Bootstrap.
+- 🤝 Open to Software Developer opportunities and collaboration.
+
   
 <!-- ======================= TECH STACK ======================= -->
 
