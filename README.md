@@ -8,7 +8,7 @@
 <h2 align="center"> Java Full Stack Developer | Software Developer</h2>
 
 ## 👨‍💻 About Me
-Hi,I am an Electronics and Communication Engineering student at NIST University 
+Hi,I am an **Electronics and Communication Engineering student at NIST University **
 an Passionate Java Full Stack Developer about building responsive web applications and solving
 real-world problems through technology.
 
