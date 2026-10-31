@@ -7,7 +7,7 @@
 
 <h1 align="center"> Electronics & Communication Engineering Student at NIST University (2020–2024)
   
-<p align="center">
+<p>
 Java • Spring Boot • React.js • JavaScript • MySQL • Full-Stack Development
 </p>
 
