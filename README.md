@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi there, I'm Srikanta Kumar</h1>
 
 <h1 align="center"> Electronics & Communication Engineering Student at NIST University (2020–2024)</h1>
-<h1 align="center"> Java • Spring Boot • React.js • JavaScript • MySQL • Full-Stack Development
+**Java • Spring Boot • React.js • JavaScript • MySQL • Full-Stack Development**
 
 ## 👨‍💻 About Me
 Hi, I'm **Srikanta Kumar Sahu**, an Passionate Java Full Stack Developer
