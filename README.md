@@ -3,13 +3,13 @@
 </p>    
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">👋 Hi there, I'm Srikanta Kumar</h1>
+<h1 align="center">👋 Hi there, I'm Srikanta Kumar Sahu</h1>
 
 <h2 align="center"> Java Full Stack Developer | Software Developer</h2>
 
 ## 👨‍💻 About Me
-Hi, I'm **Srikanta Kumar Sahu**, an Passionate Java Full Stack Developer
-about building responsive web applications and solving
+Hi,I am an Electronics and Communication Engineering student at NIST University 
+an Passionate Java Full Stack Developer about building responsive web applications and solving
 real-world problems through technology.
 
 - 💻 Interested in Java and full-stack development.
