@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi there, I'm Srikanta Kumar</h1>
 
 <h2 align="center"> Java Full Stack Developer | Software Developer</h2>
-Java • Spring Boot • React.js • MySQL • Web Development • Software Engineering
+<h3 align="center"> Java • Spring Boot • React.js • MySQL • Web Development • Software Engineering</h3>
 
 ## 👨‍💻 About Me
 Hi, I'm **Srikanta Kumar Sahu**, an Passionate Java Full Stack Developer
