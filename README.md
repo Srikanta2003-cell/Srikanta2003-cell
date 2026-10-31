@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi there, I'm Srikanta Kumar</h1>
 
-<h2 align="center"> Java Full Stack Developer| Frontend & Bakend Developer</h2>
+<h2 align="center"> Java Full Stack Developer | Software Developer</h2>
 
 ## 👨‍💻 About Me
 Hi, I'm **Srikanta Kumar Sahu**, an Passionate Java Full Stack Developer
