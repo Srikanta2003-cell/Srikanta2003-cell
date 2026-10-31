@@ -9,6 +9,7 @@
 
 ## 👨‍💻 About Me
 Hi,I'm a passionate Frontend Developer skilled in building scalable web applications using React, Next, HTML5, TailwindCSS, springboot. I enjoy translating designs into pixel-perfect UIs and bringing products to life with interactive, responsive, and clean code.
+ I actively work on projects related to Full-Stack Web Development, Frontend Development, Backend Development, Database Management, and Software Engineering, with a focus on writing clean, efficient, and maintainable code.
 
 - 💻 Interested in Java and full-stack development.
 - 🌱 Improving my skills in Spring Boot, React.js, and MySQL.
