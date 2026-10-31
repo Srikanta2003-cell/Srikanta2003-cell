@@ -8,9 +8,7 @@
 <h2 align="center"> Java Full Stack Developer | Software Developer</h2>
 
 ## 👨‍💻 About Me
-Hi,I am an **Electronics and Communication Engineering student at NIST University **
-an Passionate Java Full Stack Developer about building responsive web applications and solving
-real-world problems through technology.
+Hi,I'm a passionate Frontend Developer skilled in building scalable web applications using React, Next, HTML5, TailwindCSS, springboot. I enjoy translating designs into pixel-perfect UIs and bringing products to life with interactive, responsive, and clean code.
 
 - 💻 Interested in Java and full-stack development.
 - 🌱 Improving my skills in Spring Boot, React.js, and MySQL.
