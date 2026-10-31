@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi there, I'm Srikanta Kumar</h1>
 
-<h1 align="center"> Electronics & Communication Engineering Student at NIST University (2020–2024)</h1>
+<h1> Electronics & Communication Engineering Student at NIST University (2020–2024)</h1>
 **Java • Spring Boot • React.js • JavaScript • MySQL • Full-Stack Development**
 
 ## 👨‍💻 About Me
